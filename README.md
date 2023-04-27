@@ -31,4 +31,4 @@ This project is complete and fully functional. However, feel free to submit a pu
 
 ## Credits
 
-This project was built by JaydotMurf. The validation rules were adapted from [Codecademy's form validation project](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-javascript-syntax-part-i/modules/fecp-challenge-project-form-validation/projects/form-validation-challenge-project).
+This project was built by JaydotMurf. The validation rules were adapted from [Traversy Media's form validation project](https://www.traversymedia.com/).
